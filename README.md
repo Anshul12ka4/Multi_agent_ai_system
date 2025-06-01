@@ -11,3 +11,6 @@ This repository contains a modular multi-agent AI system designed to process var
 - Support for multiple input formats: `.txt`, `.json`, `.pdf`.
 - Log viewing and export capability with duplicate removal and CSV output.
 
+## Output
+
+In Logs_output.csv
