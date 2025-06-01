@@ -1,0 +1,10 @@
+openai
+pydantic
+fastapi
+uvicorn
+python-dotenv
+python-magic
+pdfplumber
+redis
+sqlite-utils
+
