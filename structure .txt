@@ -1,0 +1,14 @@
+multi_agent_ai_system/
+├── agents/
+│   ├── classifier_agent.py
+│   ├── email_agent.py
+│   └── json_agent.py
+├── memory/
+│   └── shared_memory.py
+├── input_samples/
+│   ├── sample_email.txt
+│   └── sample_invoice.json
+├── main.py
+├── view_logs.py
+├── requirements.txt
+└── README.md
